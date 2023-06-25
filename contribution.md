@@ -141,5 +141,7 @@
 |week 9| Zihan Liu |[client#98](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/98)| Test writing for Chatservice.js methods|
 |week 9| Zihan Liu |[server#147](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/147)| Test writing for chat service methods except start game|
 |week 9| Zihan Liu |[client#35](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-client/issues/35)| Improve code quality for views|
+|week 9| Zihan Liu |[server#137](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/137)| .Readme file|
+|week 9| Zihan Liu |[server#35](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/35)| Improve code quality for views|
 |week 9| Zehao Zhang |[server#150](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/150)|Test writing for room controller|
 |week 9| Zehao Zhang |[server#148](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/148)|Test writing for room controller part1|
