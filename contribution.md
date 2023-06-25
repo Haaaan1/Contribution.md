@@ -30,7 +30,6 @@
 | week 3 | Han Yang |  [#118](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/58) | Get users' information shown on the profile page                                                                   |
 | week 3 | Han Yang |   [#73](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/73) | Users can choose to change profile picture on ProfileEdit page in the front end                                    |
 | week 3 | Han Yang | [#117](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/117) | Implement PUT method for users' profile picture                                                                    |
-
 | week 3| Yixuan Zhou |[client#19](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-client/issues/19) | Implement start game button                                                                                                                 |
 | week 3| Yixuan Zhou |[client#41](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-client/issues/41) | Implement get ready and cancel button                                                                                                                 |
 | week 4 | Han Yang |   [#86](https://github.com/sopra-fs23-group-01/sopra-fs23-group-01-server/issues/86) | Implement a GET-method in the back end for members of game to show the delivered cards, identities and results     |
